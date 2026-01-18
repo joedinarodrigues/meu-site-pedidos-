@@ -1,0 +1,1 @@
+// espaço para futuras funções
